@@ -1,6 +1,7 @@
 body{
 	margin: 0;
 	padding: 0;
+	font-family: Century Gothic, sans-serif;
 }
 
 hr{
@@ -69,3 +70,230 @@ hr{
 .icon { 
 color: #828282; 
 }
+
+.navAboutMe{
+	background-color: #ffffff;
+	font-family: Century Gothic, sans-serif;
+	text-align: right;
+	font-size: 15px;
+	padding-bottom: 2px;
+}
+
+.navAboutMe > li{
+	display: inline-block;
+	padding-right: 50px;
+	font-weight: bold;
+}
+
+.navAboutMe > li > a{
+	text-decoration: none;
+	color: #000000;
+}
+
+.navAboutMe > li > a:hover {
+	color: #c1c1c1;
+}
+
+.logo{
+	color: #000000;
+	float: left;
+	font-family: Century Gothic, sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.logo > a{
+	text-decoration: none;
+	color: #000000;
+}
+
+.banner{
+	width: 100%;
+	display: block;
+}
+
+.banner > img{
+	width: 100%;
+	display: block;
+	height: 250px;
+}
+
+.h1{
+	font-weight: bold;
+	text-align: center;
+	margin-top: 30px;
+	font-size: 30px;
+}
+
+
+.tech{
+	font-size: 12px;
+	margin-bottom: 30px;
+	background-color: #000000;
+}
+
+.s1{
+	width: 170px;
+	border: 1px solid #000000;
+	height: 180px;
+	margin-left: 46px;
+	float: left;
+}
+
+.s1 > .c{
+	max-width: 100px;
+	margin-top: -6px;
+}
+
+.s2{
+	width: 170px;
+	border: 1px solid #000000;
+	height: 180px;
+	margin-left: 20px;
+	float: left;
+}
+
+.s2 > .cpp{
+	max-width: 100px;
+	margin-top: -6px;
+}
+
+.s3{
+	width: 170px;
+	border: 1px solid #000000;
+	height: 180px;
+	margin-left: 20px;
+	float: left;
+}
+
+.s3 > .html{
+	max-width: 100px;
+	margin-top: -6px;
+}
+
+.s4{
+	width: 170px;
+	border: 1px solid #000000;
+	height: 180px;
+	margin-left: 20px;
+	float: left;
+}
+
+.s4 > .java{
+	max-width: 100px;
+	margin-top: -6px;
+}
+
+.s5{
+	width: 170px;
+	border: 1px solid #000000;
+	height: 180px;
+	margin-left: 20px;
+	float: left;
+}
+
+.s5 > .sql{
+	max-width: 160px;
+	margin-top: 0px;
+}
+
+.s6{
+	width: 170px;
+	border: 1px solid #000000;
+	height: 180px;
+	margin-left: 20px;
+	float: left;
+}
+
+.s6 > .ver{
+	max-width: 100px;
+	margin-top: 0px;
+}
+
+.s7{
+	width: 170px;
+	border: 1px solid #000000;
+	height: 180px;
+	margin-left: 20px;
+	float: left;
+}
+
+.s7 > h1{
+	margin-top: 7px;
+}
+
+.s7 > .n2{
+	max-width: 100px;
+	margin-top: 0px;
+}
+
+.tools{
+	font-size: 12px;
+}
+
+.t1{
+	width: 170px;
+	border: 1px solid #000000;
+	height: 180px;
+	margin-left: 46px;
+	float: left;
+}
+
+.t1 > .c{
+	max-width: 100px;
+	margin-top: -6px;
+}
+
+.t2{
+	width: 170px;
+	border: 1px solid #000000;
+	height: 180px;
+	margin-left: 20px;
+	float: left;
+}
+
+.t2 > .cpp{
+	max-width: 100px;
+	margin-top: -6px;
+}
+
+.t3{
+	width: 170px;
+	border: 1px solid #000000;
+	height: 180px;
+	margin-left: 20px;
+	float: left;
+}
+
+.t3 > .html{
+	max-width: 100px;
+	margin-top: -6px;
+}
+
+.t4{
+	width: 170px;
+	border: 1px solid #000000;
+	height: 180px;
+	margin-left: 20px;
+	float: left;
+}
+
+.t4 > .java{
+	max-width: 100px;
+	margin-top: -6px;
+}
+
+.tHeader {
+	margin-top: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
